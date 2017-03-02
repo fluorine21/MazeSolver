@@ -20,7 +20,7 @@ public class jsearch {
 	
 	public boolean solve(){
 		
-		move(true, startNode);
+		move(true, startNode); //This is a recursive algorythim which solves the maze
 		
 		
 		
